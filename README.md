@@ -16,11 +16,11 @@ GameZ.app é um projeto desenvolvido em WordPress que permite aos usuários cada
   - Instalação e configuração do WordPress
     - Utilizaremos o Thema Astra e utilizarei o Thema Filho, para que não haja problema no update do theme
 - Configuração de Temas e Plugins
-  - Escolha de um tema base ou criação de um tema filho
   - Instalação de plugins essenciais (SEO, segurança, cache, etc.)
+- Fazer um CRUD, para testar.
 
 ### Fase 2: Criação de Custom Post Types e Campos Personalizados
-- Custom Post Type (CPT) para Jogos
+- Custom Post Type (CPT) para Jogos (https://www.hostinger.com.br/tutoriais/como-criar-custom-post-types-wordpress#:~:text=Em%20resumo%2C%20o%20tipo%20de,conte%C3%BAdo%20de%20cada%20um%20deles.)
   - Criação de um CPT chamado "Jogos" usando código ou plugin (por exemplo, Custom Post Type UI)
 - Campos Personalizados para Jogos
   - Utilização do Advanced Custom Fields (ACF) para adicionar campos personalizados:
