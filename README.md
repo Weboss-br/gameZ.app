@@ -11,9 +11,10 @@ GameZ.app é um projeto desenvolvido em WordPress que permite aos usuários cada
 ## Funcionalidades
 
 ### Fase 1: Configuração Inicial
-- Instalação do WordPress
-  - Configuração do ambiente de desenvolvimento local (XAMPP, Local by Flywheel, etc.)
+- Instalação do WordPress com o localwp.com
+  - Configuração do ambiente de desenvolvimento local
   - Instalação e configuração do WordPress
+    - Utilizaremos o Thema Astra e utilizarei o Thema Filho, para que não haja problema no update do theme
 - Configuração de Temas e Plugins
   - Escolha de um tema base ou criação de um tema filho
   - Instalação de plugins essenciais (SEO, segurança, cache, etc.)
@@ -56,6 +57,13 @@ GameZ.app é um projeto desenvolvido em WordPress que permite aos usuários cada
   - Implementar comparação de listas de jogos com amigos
 - Outras Melhorias
   - Adicionar novas funcionalidades conforme feedback dos usuários
+- Fonte de informações:
+  - Algumas bases de dados e serviços que catalogam jogos de maneira mais específica, como:
+  - IGDB (Internet Game Database): Um banco de dados que fornece informações detalhadas sobre jogos, incluindo desenvolvedores, editores, datas de lançamento e muito mais.
+  - MobyGames: Um banco de dados abrangente que lista jogos e suas versões, plataformas, desenvolvedores, editores e outros detalhes relevantes.
+  - Steam: A plataforma de distribuição de jogos da Valve fornece informações detalhadas sobre os jogos disponíveis na plataforma, incluindo identificadores únicos.
+  - Giant Bomb: Outro banco de dados que oferece informações detalhadas sobre jogos de videogame.
+  - Barcodes: Para versões físicas dos jogos, os códigos de barras UPC e EAN são usados para identificação e rastreamento.
 
 ## Tecnologias Utilizadas
 - WordPress
