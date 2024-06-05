@@ -63,7 +63,7 @@ if (!function_exists('list_items')) {
                 echo '<form action="" method="post" style="display:inline;">
                         ' . wp_nonce_field('delete_post_nonce', '_wpnonce', true, false) . '
                         <input type="hidden" name="delete_post_id" value="' . get_the_ID() . '">
-                        <input type="submit" value="Excluir">
+                        <input type="submit" value="Deletar Jogo">
                       </form>';
             }
         } else {
